@@ -1,7 +1,7 @@
 <div align="center">
-  ### Hi there 👋<br />
-  wannabe front-end developer.<br />평소엔 책과 영화와 음악을 좋아합니다.<br />보편적이고 보통사람들을 위한 서비스 개발을 꿈꾸고 있습니다.
-
+  <h2>Hi there 👋</h2><br />
+  <h4>wannabe front-end developer.<br />평소엔 책과 영화와 음악을 좋아합니다.<br />보편적이고 보통사람들을 위한 서비스 개발을 꿈꾸고 있습니다.</h4>
+  <br />
   <br />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
