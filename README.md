@@ -1,5 +1,5 @@
-<div align="ce">
-  ### Hi there 👋
+<div align="center">
+  ### Hi there 👋<br />
   wannabe front-end developer.<br />평소엔 책과 영화와 음악을 좋아합니다.<br />보편적이고 보통사람들을 위한 서비스 개발을 꿈꾸고 있습니다.
 
   <br />
