@@ -7,6 +7,3 @@ Hi there 👋<br /><br />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-<br />
-<br />
-[![gonasooc's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonasooc&show_icons=true&theme=highcontrast)](https://github.com/gonasooc/github-readme-stats)
